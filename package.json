@@ -1,7 +1,7 @@
 {
   "name": "dasilva-fotografie-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "These API´s belongs to the project `Da Silva Fotografie` - A Photography website.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,6 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.18.2",
     "vercel": "^31.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Francine-Pepe/dasilva-fotografie-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Francine-Pepe/dasilva-fotografie-api/issues"
+  },
+  "homepage": "https://github.com/Francine-Pepe/dasilva-fotografie-api#readme"
 }
