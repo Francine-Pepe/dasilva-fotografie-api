@@ -1,0 +1,28 @@
+{
+    "fotos": [
+       {
+        "id": 0,
+        "name": "Malia",
+        "image": "https://live.staticflickr.com/65535/53019544020_fcf4f4d7ce_h.jpg",
+        "type": "animals"
+       },
+       {
+        "id": 1,
+        "name": "Isabela",
+        "image": "https://live.staticflickr.com/65535/53018570272_8fd8e663c9_b.jpg",
+        "type": "animals"
+       },
+       {
+        "id": 2,
+        "name": "Ladybug",
+        "image": "https://live.staticflickr.com/65535/53018570307_cb1cb6f573_b.jpg",
+        "type": "animals"
+       },
+       {
+        "id": 3,
+        "name": "Blueberry Cake",
+        "image": "https://live.staticflickr.com/65535/53019317199_967fd55ca3_b.jpg",
+        "type": "food"
+       }
+    ]
+}
