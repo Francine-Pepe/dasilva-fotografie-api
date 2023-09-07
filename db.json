@@ -4,7 +4,9 @@
         "id": 0,
         "name": "Malia",
         "image": "https://live.staticflickr.com/65535/53019544020_fcf4f4d7ce_h.jpg",
-        "type": "animals"
+        "type": "animals",
+        "rows": 2,
+        "cols": 2
        },
        {
         "id": 1,
@@ -22,7 +24,8 @@
         "id": 3,
         "name": "Blueberry Cake",
         "image": "https://live.staticflickr.com/65535/53019317199_967fd55ca3_b.jpg",
-        "type": "food"
+        "type": "food",
+        "cols": 2
        },
        {
         "id": 4,
@@ -58,31 +61,38 @@
         "id": 9,
         "name": "Christmas Tree and the Full Moon - Jungfernstieg - Hamburg",
         "image": "https://live.staticflickr.com/65535/53170652584_f305cf9e38_c.jpg",
-        "type": "landscape"
+        "type": "landscape",
+        "rows": 2,
+        "cols": 2
        },
        {
         "id": 10,
         "name": "The Elbphilharmonie - Hamburg",
         "image": "https://live.staticflickr.com/65535/53170651184_5493846a88_c.jpg",
-        "type": "landscape"
+        "type": "landscape",
+        "cols": 2
        },
        {
         "id": 11,
         "name": "Nikolaifleet - Hamburg",
         "image": "https://live.staticflickr.com/65535/53170890710_53d6ce1314_c.jpg",
-        "type": "landscape"
+        "type": "landscape",
+        "rows": 2,
+        "cols": 2
        },
        {
         "id": 12,
         "name": "Breakfast",
         "image": "https://live.staticflickr.com/65535/53170890765_c6a7de9621_c.jpg",
-        "type": "food"
+        "type": "food",
+        "cols": 2
        },
        {
         "id": 13,
         "name": "Love",
         "image": "https://live.staticflickr.com/65535/53170453386_5019978fda_c.jpg",
-        "type": "portrait"
+        "type": "portrait",
+        "cols": 2
        },
        {
         "id": 14,
@@ -106,7 +116,9 @@
         "id": 17,
         "name": "Bouquet",
         "image": "https://live.staticflickr.com/65535/53169869192_c71c27e9f9_c.jpg",
-        "type": "flowers"
+        "type": "flowers",
+        "rows": 2,
+        "cols": 2
        },
        {
         "id": 18,
@@ -118,7 +130,9 @@
         "id": 19,
         "name": "Winter in Germany",
         "image": "https://live.staticflickr.com/65535/53170654544_708e844c0c_c.jpg",
-        "type": "landscape"
+        "type": "landscape",
+        "rows": 2,
+        "cols": 2
        },
        {
         "id": 20,
@@ -130,7 +144,8 @@
         "id": 21,
         "name": "Quero Caféééééé!!",
         "image": "https://live.staticflickr.com/65535/53170455881_17f0d4b33f_c.jpg",
-        "type": "food"
+        "type": "food",
+        "cols": 2
        },
        {
         "id": 22,
@@ -152,7 +167,7 @@
        },
        {
         "id": 25,
-        "name": "Collonaden - Hamburg",
+        "name": "Colonaden - Hamburg",
         "image": "https://live.staticflickr.com/65535/53170753804_54c25f92fb_c.jpg",
         "type": "landscape"
        },
@@ -190,19 +205,23 @@
         "id": 31,
         "name": "Scharbeutz - Germany",
         "image": "https://live.staticflickr.com/65535/53171032960_d7e8796de4_c.jpg",
-        "type": "landscape"
+        "type": "landscape",
+        "cols": 2
        },
        {
         "id": 32,
         "name": "Right place at the right time",
         "image": "https://live.staticflickr.com/65535/53170009422_616ea4443c_c.jpg",
-        "type": "moon"
+        "type": "moon",
+        "cols": 2
        },
        {
         "id": 33,
         "name": "Splash!",
         "image": "https://live.staticflickr.com/65535/53171081923_817ac42f9f_c.jpg",
-        "type": "food"
+        "type": "food",
+        "rows": 2,
+        "cols": 2
        }
     ]
 }
