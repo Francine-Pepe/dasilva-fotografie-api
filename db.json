@@ -5,7 +5,8 @@
       "name": "Malia",
       "image": "https://live.staticflickr.com/65535/53019544020_fcf4f4d7ce_h.jpg",
       "type": "animals",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 1,
@@ -19,7 +20,8 @@
       "name": "Isabela waiting for her dad",
       "image": "https://live.staticflickr.com/65535/53170893120_b07ac6c694_c.jpg",
       "type": "animals",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 2,
@@ -40,7 +42,8 @@
       "name": "Lunch",
       "image": "https://live.staticflickr.com/65535/53170009567_4f1a684b1a_c.jpg",
       "type": "food",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 4,
@@ -61,7 +64,8 @@
       "name": "Strawberries",
       "image": "https://live.staticflickr.com/65535/53170890535_fa242be4ba_c.jpg",
       "type": "food",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 7,
@@ -82,7 +86,8 @@
       "name": "Christmas Tree and the Full Moon - Jungfernstieg - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170652584_f305cf9e38_c.jpg",
       "type": "landscape",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 10,
@@ -96,7 +101,8 @@
       "name": "Nikolaifleet - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170890710_53d6ce1314_c.jpg",
       "type": "landscape",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 12,
@@ -139,7 +145,8 @@
       "name": "Bouquet",
       "image": "https://live.staticflickr.com/65535/53169869192_c71c27e9f9_c.jpg",
       "type": "flowers",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 18,
@@ -168,6 +175,7 @@
       "name": "Quero Caféééééé!!",
       "image": "https://live.staticflickr.com/65535/53170455881_17f0d4b33f_c.jpg",
       "type": "food",
+      "rows": 2,
       "cols": 2
     },
 
@@ -183,14 +191,16 @@
       "name": "Christmas Candles",
       "image": "https://live.staticflickr.com/65535/53169970992_8d0b5bd9bb_c.jpg",
       "type": "product",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 25,
       "name": "Colonaden - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170753804_54c25f92fb_c.jpg",
       "type": "landscape",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 26,
@@ -204,7 +214,8 @@
       "name": "Cake to be",
       "image": "https://live.staticflickr.com/65535/53170992070_e5a675bbb4_c.jpg",
       "type": "food",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
     {
       "id": 28,
@@ -218,7 +229,8 @@
       "name": "Inhyly Products",
       "image": "https://live.staticflickr.com/65535/53170012987_a2cd793b35_c.jpg",
       "type": "product",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     },
 
     {
