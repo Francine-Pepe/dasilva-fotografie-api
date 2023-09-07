@@ -32,13 +32,15 @@
         "id": 4,
         "name": "Needles",
         "image": "https://live.staticflickr.com/65535/53170943718_00a6412c83_c.jpg",
-        "type": "product"
+        "type": "product",
+        "cols": 2
        },
        {
         "id": 5,
         "name": "Mushroom",
         "image": "https://live.staticflickr.com/65535/53170654444_e25305853c_c.jpg",
-        "type": "food"
+        "type": "food",
+        "cols": 2
        },
        {
         "id": 6,
@@ -63,7 +65,6 @@
         "name": "Christmas Tree and the Full Moon - Jungfernstieg - Hamburg",
         "image": "https://live.staticflickr.com/65535/53170652584_f305cf9e38_c.jpg",
         "type": "landscape",
-        "rows": 2,
         "cols": 2
        },
        {
