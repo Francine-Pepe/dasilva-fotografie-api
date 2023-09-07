@@ -18,7 +18,8 @@
         "id": 2,
         "name": "Ladybug",
         "image": "https://live.staticflickr.com/65535/53018570307_cb1cb6f573_b.jpg",
-        "type": "animals"
+        "type": "animals",
+        "cols": 2
        },
        {
         "id": 3,
@@ -98,7 +99,8 @@
         "id": 14,
         "name": "The Hand that Draws",
         "image": "https://live.staticflickr.com/65535/53170940633_26d6b5f499_c.jpg",
-        "type": "product"
+        "type": "product",
+        "cols": 2
        },
        {
         "id": 15,
@@ -110,7 +112,8 @@
         "id": 16,
         "name": "Eggs to become cake",
         "image": "https://live.staticflickr.com/65535/53170651739_896f4f65a8_c.jpg",
-        "type": "food"
+        "type": "food",
+        "cols": 2
        },
        {
         "id": 17,
@@ -131,7 +134,6 @@
         "name": "Winter in Germany",
         "image": "https://live.staticflickr.com/65535/53170654544_708e844c0c_c.jpg",
         "type": "landscape",
-        "rows": 2,
         "cols": 2
        },
        {
@@ -187,7 +189,8 @@
         "id": 28,
         "name": "Inhyly Products",
         "image": "https://live.staticflickr.com/65535/53171084898_46453c52a7_c.jpg",
-        "type": "product"
+        "type": "product",
+        "cols": 2
        },
        {
         "id": 29,
