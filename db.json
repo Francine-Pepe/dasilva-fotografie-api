@@ -5,20 +5,21 @@
       "name": "Malia",
       "image": "https://live.staticflickr.com/65535/53019544020_fcf4f4d7ce_h.jpg",
       "type": "animals",
-      "rows": 2,
-      "cols": 2
+      "rows": 2
     },
     {
       "id": 1,
       "name": "Isabela",
       "image": "https://live.staticflickr.com/65535/53018570272_8fd8e663c9_b.jpg",
-      "type": "animals"
+      "type": "animals",
+      "cols": 2
     },
     {
       "id": 22,
       "name": "Isabela waiting for her dad",
       "image": "https://live.staticflickr.com/65535/53170893120_b07ac6c694_c.jpg",
-      "type": "animals"
+      "type": "animals",
+      "rows": 2
     },
     {
       "id": 2,
@@ -38,7 +39,8 @@
       "id": 30,
       "name": "Lunch",
       "image": "https://live.staticflickr.com/65535/53170009567_4f1a684b1a_c.jpg",
-      "type": "food"
+      "type": "food",
+      "rows": 2
     },
     {
       "id": 4,
@@ -65,20 +67,22 @@
       "id": 7,
       "name": "Pink Flower",
       "image": "https://live.staticflickr.com/65535/53169866842_72c82c2f1a_c.jpg",
-      "type": "flowers"
+      "type": "flowers",
+      "cols": 2
     },
     {
       "id": 8,
       "name": "Strawberrie - Macro",
       "image": "https://live.staticflickr.com/65535/53169866742_b5ac4fd12d_c.jpg",
-      "type": "food"
+      "type": "food",
+      "cols": 2
     },
     {
       "id": 9,
       "name": "Christmas Tree and the Full Moon - Jungfernstieg - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170652584_f305cf9e38_c.jpg",
       "type": "landscape",
-      "cols": 2
+      "rows": 2
     },
     {
       "id": 10,
@@ -92,8 +96,7 @@
       "name": "Nikolaifleet - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170890710_53d6ce1314_c.jpg",
       "type": "landscape",
-      "rows": 2,
-      "cols": 2
+      "rows": 2
     },
     {
       "id": 12,
@@ -136,14 +139,14 @@
       "name": "Bouquet",
       "image": "https://live.staticflickr.com/65535/53169869192_c71c27e9f9_c.jpg",
       "type": "flowers",
-      "rows": 2,
-      "cols": 2
+      "rows": 2
     },
     {
       "id": 18,
       "name": "Malia posing",
       "image": "https://live.staticflickr.com/65535/53170943418_79c482f9e4_c.jpg",
-      "type": "animals"
+      "type": "animals",
+      "cols": 2
     },
 
     {
@@ -172,31 +175,36 @@
       "id": 23,
       "name": "Full moon from another perspective ",
       "image": "https://live.staticflickr.com/65535/53170555501_9feef1c7df_c.jpg",
-      "type": "moon"
+      "type": "moon",
+      "cols": 2
     },
     {
       "id": 24,
       "name": "Christmas Candles",
       "image": "https://live.staticflickr.com/65535/53169970992_8d0b5bd9bb_c.jpg",
-      "type": "product"
+      "type": "product",
+      "rows": 2
     },
     {
       "id": 25,
       "name": "Colonaden - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170753804_54c25f92fb_c.jpg",
-      "type": "landscape"
+      "type": "landscape",
+      "rows": 2
     },
     {
       "id": 26,
       "name": "Breakfast preparation",
       "image": "https://live.staticflickr.com/65535/53170556266_940637c0b1_c.jpg",
-      "type": "food"
+      "type": "food",
+      "cols": 2
     },
     {
       "id": 27,
       "name": "Cake to be",
       "image": "https://live.staticflickr.com/65535/53170992070_e5a675bbb4_c.jpg",
-      "type": "food"
+      "type": "food",
+      "rows": 2
     },
     {
       "id": 28,
@@ -209,7 +217,8 @@
       "id": 29,
       "name": "Inhyly Products",
       "image": "https://live.staticflickr.com/65535/53170012987_a2cd793b35_c.jpg",
-      "type": "product"
+      "type": "product",
+      "rows": 2
     },
 
     {
@@ -231,8 +240,7 @@
       "name": "Splash!",
       "image": "https://live.staticflickr.com/65535/53171081923_817ac42f9f_c.jpg",
       "type": "food",
-      "rows": 2,
-      "cols": 2
+      "rows": 2
     }
   ]
 }
