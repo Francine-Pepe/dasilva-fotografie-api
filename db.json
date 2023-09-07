@@ -1,231 +1,238 @@
 {
-    "fotos": [
-       {
-        "id": 0,
-        "name": "Malia",
-        "image": "https://live.staticflickr.com/65535/53019544020_fcf4f4d7ce_h.jpg",
-        "type": "animals",
-        "rows": 2,
-        "cols": 2
-       },
-       {
-        "id": 1,
-        "name": "Isabela",
-        "image": "https://live.staticflickr.com/65535/53018570272_8fd8e663c9_b.jpg",
-        "type": "animals"
-       },
-       {
-        "id": 2,
-        "name": "Ladybug",
-        "image": "https://live.staticflickr.com/65535/53018570307_cb1cb6f573_b.jpg",
-        "type": "animals",
-        "cols": 2
-       },
-       {
-        "id": 3,
-        "name": "Blueberry Cake",
-        "image": "https://live.staticflickr.com/65535/53019317199_967fd55ca3_b.jpg",
-        "type": "food",
-        "cols": 2
-       },
-       {
-        "id": 4,
-        "name": "Needles",
-        "image": "https://live.staticflickr.com/65535/53170943718_00a6412c83_c.jpg",
-        "type": "product",
-        "cols": 2
-       },
-       {
-        "id": 5,
-        "name": "Mushroom",
-        "image": "https://live.staticflickr.com/65535/53170654444_e25305853c_c.jpg",
-        "type": "food",
-        "cols": 2
-       },
-       {
-        "id": 6,
-        "name": "Strawberries",
-        "image": "https://live.staticflickr.com/65535/53170890535_fa242be4ba_c.jpg",
-        "type": "food"
-       },
-       {
-        "id": 7,
-        "name": "Pink Flower",
-        "image": "https://live.staticflickr.com/65535/53169866842_72c82c2f1a_c.jpg",
-        "type": "flowers"
-       },
-       {
-        "id": 8,
-        "name": "Strawberrie - Macro",
-        "image": "https://live.staticflickr.com/65535/53169866742_b5ac4fd12d_c.jpg",
-        "type": "food"
-       },
-       {
-        "id": 9,
-        "name": "Christmas Tree and the Full Moon - Jungfernstieg - Hamburg",
-        "image": "https://live.staticflickr.com/65535/53170652584_f305cf9e38_c.jpg",
-        "type": "landscape",
-        "cols": 2
-       },
-       {
-        "id": 10,
-        "name": "The Elbphilharmonie - Hamburg",
-        "image": "https://live.staticflickr.com/65535/53170651184_5493846a88_c.jpg",
-        "type": "landscape",
-        "cols": 2
-       },
-       {
-        "id": 11,
-        "name": "Nikolaifleet - Hamburg",
-        "image": "https://live.staticflickr.com/65535/53170890710_53d6ce1314_c.jpg",
-        "type": "landscape",
-        "rows": 2,
-        "cols": 2
-       },
-       {
-        "id": 12,
-        "name": "Breakfast",
-        "image": "https://live.staticflickr.com/65535/53170890765_c6a7de9621_c.jpg",
-        "type": "food",
-        "cols": 2
-       },
-       {
-        "id": 13,
-        "name": "Love",
-        "image": "https://live.staticflickr.com/65535/53170453386_5019978fda_c.jpg",
-        "type": "portrait",
-        "cols": 2
-       },
-       {
-        "id": 14,
-        "name": "The Hand that Draws",
-        "image": "https://live.staticflickr.com/65535/53170940633_26d6b5f499_c.jpg",
-        "type": "product",
-        "cols": 2
-       },
-       {
-        "id": 15,
-        "name": "Colorful lunch",
-        "image": "https://live.staticflickr.com/65535/53170940833_b1782a6ce6_c.jpg",
-        "type": "food"
-       },
-       {
-        "id": 16,
-        "name": "Eggs to become cake",
-        "image": "https://live.staticflickr.com/65535/53170651739_896f4f65a8_c.jpg",
-        "type": "food",
-        "cols": 2
-       },
-       {
-        "id": 17,
-        "name": "Bouquet",
-        "image": "https://live.staticflickr.com/65535/53169869192_c71c27e9f9_c.jpg",
-        "type": "flowers",
-        "rows": 2,
-        "cols": 2
-       },
-       {
-        "id": 18,
-        "name": "Malia posing",
-        "image": "https://live.staticflickr.com/65535/53170943418_79c482f9e4_c.jpg",
-        "type": "animals"
-       },
-       {
-        "id": 19,
-        "name": "Winter in Germany",
-        "image": "https://live.staticflickr.com/65535/53170654544_708e844c0c_c.jpg",
-        "type": "landscape",
-        "cols": 2
-       },
-       {
-        "id": 20,
-        "name": "Black and white Flower",
-        "image": "https://live.staticflickr.com/65535/53169868577_4396035537_c.jpg",
-        "type": "flowers"
-       },
-       {
-        "id": 21,
-        "name": "Quero Caféééééé!!",
-        "image": "https://live.staticflickr.com/65535/53170455881_17f0d4b33f_c.jpg",
-        "type": "food",
-        "cols": 2
-       },
-       {
-        "id": 22,
-        "name": "Isabela waiting for her dad",
-        "image": "https://live.staticflickr.com/65535/53170893120_b07ac6c694_c.jpg",
-        "type": "animals"
-       },
-       {
-        "id": 23,
-        "name": "Full moon from another perspective ",
-        "image": "https://live.staticflickr.com/65535/53170555501_9feef1c7df_c.jpg",
-        "type": "moon"
-       },
-       {
-        "id": 24,
-        "name": "Christmas Candles",
-        "image": "https://live.staticflickr.com/65535/53169970992_8d0b5bd9bb_c.jpg",
-        "type": "product"
-       },
-       {
-        "id": 25,
-        "name": "Colonaden - Hamburg",
-        "image": "https://live.staticflickr.com/65535/53170753804_54c25f92fb_c.jpg",
-        "type": "landscape"
-       },
-       {
-        "id": 26,
-        "name": "Breakfast preparation",
-        "image": "https://live.staticflickr.com/65535/53170556266_940637c0b1_c.jpg",
-        "type": "food"
-       },
-       {
-        "id": 27,
-        "name": "Cake to be",
-        "image": "https://live.staticflickr.com/65535/53170992070_e5a675bbb4_c.jpg",
-        "type": "food"
-       },
-       {
-        "id": 28,
-        "name": "Inhyly Products",
-        "image": "https://live.staticflickr.com/65535/53171084898_46453c52a7_c.jpg",
-        "type": "product",
-        "cols": 2
-       },
-       {
-        "id": 29,
-        "name": "Inhyly Products",
-        "image": "https://live.staticflickr.com/65535/53170012987_a2cd793b35_c.jpg",
-        "type": "product"
-       },
-       {
-        "id": 30,
-        "name": "Lunch",
-        "image": "https://live.staticflickr.com/65535/53170009567_4f1a684b1a_c.jpg",
-        "type": "food"
-       },
-       {
-        "id": 31,
-        "name": "Scharbeutz - Germany",
-        "image": "https://live.staticflickr.com/65535/53171032960_d7e8796de4_c.jpg",
-        "type": "landscape",
-        "cols": 2
-       },
-       {
-        "id": 32,
-        "name": "Right place at the right time",
-        "image": "https://live.staticflickr.com/65535/53170009422_616ea4443c_c.jpg",
-        "type": "moon",
-        "cols": 2
-       },
-       {
-        "id": 33,
-        "name": "Splash!",
-        "image": "https://live.staticflickr.com/65535/53171081923_817ac42f9f_c.jpg",
-        "type": "food",
-        "rows": 2,
-        "cols": 2
-       }
-    ]
+  "fotos": [
+    {
+      "id": 0,
+      "name": "Malia",
+      "image": "https://live.staticflickr.com/65535/53019544020_fcf4f4d7ce_h.jpg",
+      "type": "animals",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "id": 1,
+      "name": "Isabela",
+      "image": "https://live.staticflickr.com/65535/53018570272_8fd8e663c9_b.jpg",
+      "type": "animals"
+    },
+    {
+      "id": 22,
+      "name": "Isabela waiting for her dad",
+      "image": "https://live.staticflickr.com/65535/53170893120_b07ac6c694_c.jpg",
+      "type": "animals"
+    },
+    {
+      "id": 2,
+      "name": "Ladybug",
+      "image": "https://live.staticflickr.com/65535/53018570307_cb1cb6f573_b.jpg",
+      "type": "animals",
+      "cols": 2
+    },
+    {
+      "id": 3,
+      "name": "Blueberry Cake",
+      "image": "https://live.staticflickr.com/65535/53019317199_967fd55ca3_b.jpg",
+      "type": "food",
+      "cols": 2
+    },
+    {
+      "id": 30,
+      "name": "Lunch",
+      "image": "https://live.staticflickr.com/65535/53170009567_4f1a684b1a_c.jpg",
+      "type": "food"
+    },
+    {
+      "id": 4,
+      "name": "Needles",
+      "image": "https://live.staticflickr.com/65535/53170943718_00a6412c83_c.jpg",
+      "type": "product",
+      "cols": 2
+    },
+    {
+      "id": 5,
+      "name": "Mushroom",
+      "image": "https://live.staticflickr.com/65535/53170654444_e25305853c_c.jpg",
+      "type": "food",
+      "cols": 2
+    },
+    {
+      "id": 6,
+      "name": "Strawberries",
+      "image": "https://live.staticflickr.com/65535/53170890535_fa242be4ba_c.jpg",
+      "type": "food",
+      "rows": 2
+    },
+    {
+      "id": 7,
+      "name": "Pink Flower",
+      "image": "https://live.staticflickr.com/65535/53169866842_72c82c2f1a_c.jpg",
+      "type": "flowers"
+    },
+    {
+      "id": 8,
+      "name": "Strawberrie - Macro",
+      "image": "https://live.staticflickr.com/65535/53169866742_b5ac4fd12d_c.jpg",
+      "type": "food"
+    },
+    {
+      "id": 9,
+      "name": "Christmas Tree and the Full Moon - Jungfernstieg - Hamburg",
+      "image": "https://live.staticflickr.com/65535/53170652584_f305cf9e38_c.jpg",
+      "type": "landscape",
+      "cols": 2
+    },
+    {
+      "id": 10,
+      "name": "The Elbphilharmonie - Hamburg",
+      "image": "https://live.staticflickr.com/65535/53170651184_5493846a88_c.jpg",
+      "type": "landscape",
+      "cols": 2
+    },
+    {
+      "id": 11,
+      "name": "Nikolaifleet - Hamburg",
+      "image": "https://live.staticflickr.com/65535/53170890710_53d6ce1314_c.jpg",
+      "type": "landscape",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "id": 12,
+      "name": "Breakfast",
+      "image": "https://live.staticflickr.com/65535/53170890765_c6a7de9621_c.jpg",
+      "type": "food",
+      "cols": 2
+    },
+    {
+      "id": 13,
+      "name": "Love",
+      "image": "https://live.staticflickr.com/65535/53170453386_5019978fda_c.jpg",
+      "type": "portrait",
+      "cols": 2
+    },
+    {
+      "id": 14,
+      "name": "The Hand that Draws",
+      "image": "https://live.staticflickr.com/65535/53170940633_26d6b5f499_c.jpg",
+      "type": "product",
+      "cols": 2
+    },
+
+    {
+      "id": 16,
+      "name": "Eggs to become cake",
+      "image": "https://live.staticflickr.com/65535/53170651739_896f4f65a8_c.jpg",
+      "type": "food",
+      "cols": 2
+    },
+    {
+      "id": 15,
+      "name": "Colorful lunch",
+      "image": "https://live.staticflickr.com/65535/53170940833_b1782a6ce6_c.jpg",
+      "type": "food",
+      "cols": 2
+    },
+    {
+      "id": 17,
+      "name": "Bouquet",
+      "image": "https://live.staticflickr.com/65535/53169869192_c71c27e9f9_c.jpg",
+      "type": "flowers",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "id": 18,
+      "name": "Malia posing",
+      "image": "https://live.staticflickr.com/65535/53170943418_79c482f9e4_c.jpg",
+      "type": "animals"
+    },
+
+    {
+      "id": 19,
+      "name": "Winter in Germany",
+      "image": "https://live.staticflickr.com/65535/53170654544_708e844c0c_c.jpg",
+      "type": "landscape",
+      "cols": 2
+    },
+    {
+      "id": 20,
+      "name": "Black and white Flower",
+      "image": "https://live.staticflickr.com/65535/53169868577_4396035537_c.jpg",
+      "type": "flowers",
+      "cols": 2
+    },
+    {
+      "id": 21,
+      "name": "Quero Caféééééé!!",
+      "image": "https://live.staticflickr.com/65535/53170455881_17f0d4b33f_c.jpg",
+      "type": "food",
+      "cols": 2
+    },
+
+    {
+      "id": 23,
+      "name": "Full moon from another perspective ",
+      "image": "https://live.staticflickr.com/65535/53170555501_9feef1c7df_c.jpg",
+      "type": "moon"
+    },
+    {
+      "id": 24,
+      "name": "Christmas Candles",
+      "image": "https://live.staticflickr.com/65535/53169970992_8d0b5bd9bb_c.jpg",
+      "type": "product"
+    },
+    {
+      "id": 25,
+      "name": "Colonaden - Hamburg",
+      "image": "https://live.staticflickr.com/65535/53170753804_54c25f92fb_c.jpg",
+      "type": "landscape"
+    },
+    {
+      "id": 26,
+      "name": "Breakfast preparation",
+      "image": "https://live.staticflickr.com/65535/53170556266_940637c0b1_c.jpg",
+      "type": "food"
+    },
+    {
+      "id": 27,
+      "name": "Cake to be",
+      "image": "https://live.staticflickr.com/65535/53170992070_e5a675bbb4_c.jpg",
+      "type": "food"
+    },
+    {
+      "id": 28,
+      "name": "Inhyly Products",
+      "image": "https://live.staticflickr.com/65535/53171084898_46453c52a7_c.jpg",
+      "type": "product",
+      "cols": 2
+    },
+    {
+      "id": 29,
+      "name": "Inhyly Products",
+      "image": "https://live.staticflickr.com/65535/53170012987_a2cd793b35_c.jpg",
+      "type": "product"
+    },
+
+    {
+      "id": 31,
+      "name": "Scharbeutz - Germany",
+      "image": "https://live.staticflickr.com/65535/53171032960_d7e8796de4_c.jpg",
+      "type": "landscape",
+      "cols": 2
+    },
+    {
+      "id": 32,
+      "name": "Right place at the right time",
+      "image": "https://live.staticflickr.com/65535/53170009422_616ea4443c_c.jpg",
+      "type": "moon",
+      "cols": 2
+    },
+    {
+      "id": 33,
+      "name": "Splash!",
+      "image": "https://live.staticflickr.com/65535/53171081923_817ac42f9f_c.jpg",
+      "type": "food",
+      "rows": 2,
+      "cols": 2
+    }
+  ]
 }
