@@ -252,7 +252,8 @@
       "name": "Splash!",
       "image": "https://live.staticflickr.com/65535/53171081923_817ac42f9f_c.jpg",
       "type": "food",
-      "rows": 2
+      "rows": 2,
+      "cols": 2
     }
   ]
 }
