@@ -82,6 +82,14 @@
       "cols": 2
     },
     {
+      "id": 35,
+      "name": "Copenhagen - Nyhavn ",
+      "image": "https://live.staticflickr.com/65535/53321108444_7753a4b4eb_k.jpg",
+      "type": "landscape",
+      "rows": 2,
+      "cols": 4
+    },
+    {
       "id": 9,
       "name": "Christmas Tree and the Full Moon - Jungfernstieg - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170652584_f305cf9e38_c.jpg",
@@ -259,14 +267,6 @@
       "id": 34,
       "name": "The light!",
       "image": "https://live.staticflickr.com/65535/53321115469_4981938da8_k.jpg",
-      "type": "landscape",
-      "rows": 2,
-      "cols": 2
-    },
-    {
-      "id": 35,
-      "name": "Copenhagen - Nyhavn ",
-      "image": "https://live.staticflickr.com/65535/53321108444_7753a4b4eb_k.jpg",
       "type": "landscape",
       "rows": 2,
       "cols": 2
