@@ -270,6 +270,30 @@
       "type": "landscape",
       "rows": 2,
       "cols": 2
+    },
+    {
+      "id": 35,
+      "name": "Pumpkin House - Tivoly - Copenhagen",
+      "image": "https://live.staticflickr.com/65535/53469839098_0a4966cb5c_b.jpg",
+      "type": "landscape",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "id": 36,
+      "name": "Pumpkin House - Tivoly - Copenhagen",
+      "image": "https://live.staticflickr.com/65535/53468794042_409119171d_b.jpg",
+      "type": "landscape",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "id": 37,
+      "name": "Pumpkin bread",
+      "image": "https://live.staticflickr.com/65535/53469696271_d5c4f4e57a_b.jpg",
+      "type": "food",
+      "rows": 2,
+      "cols": 2
     }
   ]
 }
