@@ -318,6 +318,22 @@
       "type": "event",
       "rows": 2,
       "cols": 2
+    },
+    {
+      "id": 41,
+      "name": "Rafael Brandao - Brazilian musician in Hamburg, Germany",
+      "image": "https://live.staticflickr.com/65535/54049437529_06fa843d28_k.jpg",
+      "type": "portrait",
+      "rows": 2,
+      "cols": 2
+    },
+    {
+      "id": 42,
+      "name": "Rafael Brandao - Black and white - Brazilian musician in Hamburg, Germany",
+      "image": "https://live.staticflickr.com/65535/54049359388_2be9270d1d_k.jpg",
+      "type": "portrait",
+      "rows": 2,
+      "cols": 2
     }
   ]
 }
