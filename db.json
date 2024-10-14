@@ -5,6 +5,7 @@
       "name": "Malia",
       "image": "https://live.staticflickr.com/65535/53019544020_fcf4f4d7ce_h.jpg",
       "type": "animals",
+      "link": "/work/animals",
       "rows": 2,
       "cols": 2
     },
@@ -13,6 +14,7 @@
       "name": "Isabela",
       "image": "https://live.staticflickr.com/65535/53018570272_8fd8e663c9_b.jpg",
       "type": "animals",
+      "link": "/work/animals",
       "cols": 2
     },
     {
@@ -20,6 +22,7 @@
       "name": "Isabela waiting for her dad",
       "image": "https://live.staticflickr.com/65535/53170893120_b07ac6c694_c.jpg",
       "type": "animals",
+      "link": "/work/animals",
       "rows": 2,
       "cols": 2
     },
@@ -28,6 +31,7 @@
       "name": "Ladybug",
       "image": "https://live.staticflickr.com/65535/53018570307_cb1cb6f573_b.jpg",
       "type": "animals",
+      "link": "/work/animals",
       "cols": 2
     },
     {
@@ -35,6 +39,7 @@
       "name": "Blueberry Cake",
       "image": "https://live.staticflickr.com/65535/53019317199_967fd55ca3_b.jpg",
       "type": "food",
+      "link": "/work/food",
       "cols": 2
     },
     {
@@ -42,6 +47,7 @@
       "name": "Lunch",
       "image": "https://live.staticflickr.com/65535/53170009567_4f1a684b1a_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "rows": 2,
       "cols": 2
     },
@@ -50,6 +56,7 @@
       "name": "Needles",
       "image": "https://live.staticflickr.com/65535/53170943718_00a6412c83_c.jpg",
       "type": "product",
+      "link": "/work/product",
       "cols": 2
     },
     {
@@ -57,6 +64,7 @@
       "name": "Mushroom",
       "image": "https://live.staticflickr.com/65535/53170654444_e25305853c_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "cols": 2
     },
     {
@@ -64,6 +72,7 @@
       "name": "Strawberries",
       "image": "https://live.staticflickr.com/65535/53170890535_fa242be4ba_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "rows": 2,
       "cols": 2
     },
@@ -72,6 +81,7 @@
       "name": "Pink Flower",
       "image": "https://live.staticflickr.com/65535/53169866842_72c82c2f1a_c.jpg",
       "type": "flowers",
+      "link": "/work/flowers",
       "cols": 2
     },
     {
@@ -79,6 +89,7 @@
       "name": "Strawberrie - Macro",
       "image": "https://live.staticflickr.com/65535/53169866742_b5ac4fd12d_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "cols": 2
     },
     {
@@ -86,6 +97,7 @@
       "name": "Copenhagen - Nyhavn ",
       "image": "https://live.staticflickr.com/65535/53321108444_7753a4b4eb_k.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "rows": 2,
       "cols": 4
     },
@@ -94,6 +106,7 @@
       "name": "Pumpkin House - Tivoly - Copenhagen",
       "image": "https://live.staticflickr.com/65535/53469839098_0a4966cb5c_b.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "rows": 2,
       "cols": 2
     },
@@ -102,6 +115,7 @@
       "name": "Pumpkin House - Tivoly - Copenhagen",
       "image": "https://live.staticflickr.com/65535/53468794042_409119171d_b.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "rows": 2,
       "cols": 2
     },
@@ -110,6 +124,7 @@
       "name": "Christmas Tree and the Full Moon - Jungfernstieg - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170652584_f305cf9e38_c.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "rows": 2,
       "cols": 2
     },
@@ -118,6 +133,7 @@
       "name": "The Elbphilharmonie - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170651184_5493846a88_c.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "cols": 2
     },
     {
@@ -125,6 +141,7 @@
       "name": "Nikolaifleet - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170890710_53d6ce1314_c.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "rows": 2,
       "cols": 2
     },
@@ -133,6 +150,7 @@
       "name": "Breakfast",
       "image": "https://live.staticflickr.com/65535/53170890765_c6a7de9621_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "cols": 2
     },
     {
@@ -140,6 +158,7 @@
       "name": "Love",
       "image": "https://live.staticflickr.com/65535/53170453386_5019978fda_c.jpg",
       "type": "portrait",
+      "link": "/work/portrait",
       "cols": 2
     },
     {
@@ -147,6 +166,7 @@
       "name": "The Hand that Draws",
       "image": "https://live.staticflickr.com/65535/53170940633_26d6b5f499_c.jpg",
       "type": "product",
+      "link": "/work/product",
       "cols": 2
     },
 
@@ -155,6 +175,7 @@
       "name": "Eggs to become cake",
       "image": "https://live.staticflickr.com/65535/53170651739_896f4f65a8_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "cols": 2
     },
     {
@@ -162,6 +183,7 @@
       "name": "Colorful lunch",
       "image": "https://live.staticflickr.com/65535/53170940833_b1782a6ce6_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "cols": 2
     },
     {
@@ -169,6 +191,7 @@
       "name": "Bouquet",
       "image": "https://live.staticflickr.com/65535/53169869192_c71c27e9f9_c.jpg",
       "type": "flowers",
+      "link": "/work/flowers",
       "rows": 2,
       "cols": 2
     },
@@ -177,6 +200,7 @@
       "name": "Malia posing",
       "image": "https://live.staticflickr.com/65535/53170943418_79c482f9e4_c.jpg",
       "type": "animals",
+      "link": "/work/animals",
       "cols": 2
     },
 
@@ -185,6 +209,7 @@
       "name": "Winter in Germany",
       "image": "https://live.staticflickr.com/65535/53170654544_708e844c0c_c.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "cols": 2
     },
     {
@@ -192,6 +217,7 @@
       "name": "Black and white Flower",
       "image": "https://live.staticflickr.com/65535/53169868577_4396035537_c.jpg",
       "type": "flowers",
+      "link": "/work/flowers",
       "cols": 2
     },
     {
@@ -199,6 +225,7 @@
       "name": "Quero Caféééééé!!",
       "image": "https://live.staticflickr.com/65535/53170455881_17f0d4b33f_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "rows": 2,
       "cols": 4
     },
@@ -208,6 +235,7 @@
       "name": "Full moon from another perspective ",
       "image": "https://live.staticflickr.com/65535/53170555501_9feef1c7df_c.jpg",
       "type": "moon",
+      "link": "/work/moon",
       "cols": 2
     },
     {
@@ -215,6 +243,7 @@
       "name": "Christmas Candles",
       "image": "https://live.staticflickr.com/65535/53169970992_8d0b5bd9bb_c.jpg",
       "type": "product",
+      "link": "/work/product",
       "rows": 2,
       "cols": 2
     },
@@ -223,6 +252,7 @@
       "name": "Colonaden - Hamburg",
       "image": "https://live.staticflickr.com/65535/53170753804_54c25f92fb_c.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "rows": 2,
       "cols": 2
     },
@@ -231,6 +261,7 @@
       "name": "Breakfast preparation",
       "image": "https://live.staticflickr.com/65535/53170556266_940637c0b1_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "cols": 2
     },
     {
@@ -238,6 +269,7 @@
       "name": "Cake to be",
       "image": "https://live.staticflickr.com/65535/53170992070_e5a675bbb4_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "rows": 2,
       "cols": 2
     },
@@ -246,6 +278,7 @@
       "name": "Inhyly Products",
       "image": "https://live.staticflickr.com/65535/53171084898_46453c52a7_c.jpg",
       "type": "product",
+      "link": "/work/product",
       "cols": 2
     },
     {
@@ -253,6 +286,7 @@
       "name": "Inhyly Products",
       "image": "https://live.staticflickr.com/65535/53170012987_a2cd793b35_c.jpg",
       "type": "product",
+      "link": "/work/product",
       "rows": 2,
       "cols": 2
     },
@@ -262,6 +296,7 @@
       "name": "Scharbeutz - Germany",
       "image": "https://live.staticflickr.com/65535/53171032960_d7e8796de4_c.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "cols": 2
     },
     {
@@ -269,6 +304,7 @@
       "name": "Right place at the right time",
       "image": "https://live.staticflickr.com/65535/53170009422_616ea4443c_c.jpg",
       "type": "moon",
+      "link": "/work/moon",
       "cols": 2
     },
     {
@@ -276,6 +312,7 @@
       "name": "Splash!",
       "image": "https://live.staticflickr.com/65535/53171081923_817ac42f9f_c.jpg",
       "type": "food",
+      "link": "/work/food",
       "rows": 2,
       "cols": 2
     },
@@ -284,6 +321,7 @@
       "name": "The light!",
       "image": "https://live.staticflickr.com/65535/53321115469_4981938da8_k.jpg",
       "type": "landscape",
+      "link": "/work/landscape",
       "rows": 2,
       "cols": 2
     },
@@ -292,6 +330,7 @@
       "name": "Pumpkin bread",
       "image": "https://live.staticflickr.com/65535/53469696271_d5c4f4e57a_b.jpg",
       "type": "food",
+      "link": "/work/food",
       "rows": 2,
       "cols": 2
     },
@@ -300,6 +339,7 @@
       "name": "Risa´s 80 years Birthday",
       "image": "https://live.staticflickr.com/65535/54032561021_96061400f4_b.jpg",
       "type": "event",
+      "link": "/work/event",
       "rows": 2,
       "cols": 2
     },
@@ -308,6 +348,7 @@
       "name": "Risa´s 80 years Birthday",
       "image": "https://live.staticflickr.com/65535/54032561211_7c721238c9_b.jpg",
       "type": "event",
+      "link": "/work/event",
       "rows": 2,
       "cols": 2
     },
@@ -316,6 +357,7 @@
       "name": "Risa´s 80 years Birthday",
       "image": "https://live.staticflickr.com/65535/54032810548_f38124695d_b.jpg",
       "type": "event",
+      "link": "/work/event",
       "rows": 2,
       "cols": 2
     },
@@ -324,6 +366,7 @@
       "name": "Rafael Brandao - Brazilian musician in Hamburg, Germany",
       "image": "https://live.staticflickr.com/65535/54049437529_06fa843d28_k.jpg",
       "type": "portrait",
+      "link": "/work/portrait",
       "rows": 2,
       "cols": 2
     },
@@ -332,6 +375,7 @@
       "name": "Rafael Brandao - Black and white - Brazilian musician in Hamburg, Germany",
       "image": "https://live.staticflickr.com/65535/54049359388_2be9270d1d_k.jpg",
       "type": "portrait",
+      "link": "/work/portrait",
       "rows": 2,
       "cols": 2
     }
