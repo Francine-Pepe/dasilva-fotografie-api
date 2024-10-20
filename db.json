@@ -4,8 +4,8 @@
       "id": 0,
       "name": "Malia",
       "image": "https://live.staticflickr.com/65535/53019544020_fcf4f4d7ce_h.jpg",
-      "type": "animals",
-      "link": "/animals",
+      "type": "/work/animals",
+      "link": "/work/animals",
       "rows": 2,
       "cols": 2
     },
@@ -13,7 +13,7 @@
       "id": 1,
       "name": "Isabela",
       "image": "https://live.staticflickr.com/65535/53018570272_8fd8e663c9_b.jpg",
-      "type": "animals",
+      "type": "/work/animals",
       "link": "/work/animals",
       "cols": 2
     },
@@ -21,7 +21,7 @@
       "id": 22,
       "name": "Isabela waiting for her dad",
       "image": "https://live.staticflickr.com/65535/53170893120_b07ac6c694_c.jpg",
-      "type": "animals",
+      "type": "/work/animals",
       "link": "/work/animals",
       "rows": 2,
       "cols": 2
@@ -30,7 +30,7 @@
       "id": 2,
       "name": "Ladybug",
       "image": "https://live.staticflickr.com/65535/53018570307_cb1cb6f573_b.jpg",
-      "type": "animals",
+      "type": "/work/animals",
       "link": "/work/animals",
       "cols": 2
     },
